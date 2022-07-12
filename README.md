@@ -1,6 +1,3 @@
-# Yo Payments C# Utility
-Use this to complete to test and complete your integration.
-
 # Yo Payments Utility Library for C# Example
 
 Yo Payments is a revolutionary mobile payments gateway service. Yo! Payments enables businesses to receive payments from their customers via mobile money, as well as make mobile money payments to any mobile money account holder. Yo! Payments also has the capability to send mobile calling credit (“airtime”) directly to users. 
