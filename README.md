@@ -2,7 +2,7 @@
 
 Yo Payments is a revolutionary mobile payments gateway service. Yo! Payments enables businesses to receive payments from their customers via mobile money, as well as make mobile money payments to any mobile money account holder. Yo! Payments also has the capability to send mobile calling credit (“airtime”) directly to users. 
 
-This utility program enables you to integrate and invoke some of the commonest Yo Payments API methods described in the official Yo Payments documentation. Use the examples written in the Program class (which is the main class), replacing the variables in there (such the apiusername, apipassword, etc) with yours.
+This utility program enables you to integrate and invoke some of the commonest Yo Payments API methods described in the official Yo Payments documentation. Use the examples written in the Program class (which is the main class), replacing the variables in there (such the apiusername, apipassword, etc) with your credentials.
 
 ## Getting Started
 This is a sample source code which you can copy, paste and modify to integrate Yo Payments with your system.
