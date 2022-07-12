@@ -1,5 +1,5 @@
 # Yo Payments C# Utility
-Yo Payments Utility C# code to use in your program to initiate Yo Payments API requests.
+Use this to complete to test and complete your integration.
 
 # Yo Payments Utility Library for C# Example
 
